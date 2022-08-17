@@ -1,3 +1,3 @@
-# github_tutorial
+# git_test
 
 Hello!
